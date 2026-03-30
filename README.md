@@ -1,4 +1,4 @@
-# EvenUp — Splitwise‑inspired expense splitting (Semesterprojekt)
+# EvenUp — Expense splitting (Semesterprojekt)
 
 **EvenUp** ist eine Web‑Applikation, mit der Gruppen (z. B. „WG“, „Urlaub“, „Verein“) gemeinsame Ausgaben erfassen, fair aufteilen und **Salden** berechnen können: **Wer schuldet wem wie viel?** Zusätzlich gibt es ein „**Schulden vereinfachen**“ : Es verändert niemandes Gesamtsaldo, reduziert aber die Anzahl notwendiger Ausgleichszahlungen.
 
